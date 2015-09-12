@@ -15,8 +15,8 @@
     - 자동화배포?를 사용해보자.
 
 # 5. H2DB 사용하기
-    - 데이터베이스를 파일로 사용할 수 있음.
-    - 참고 : [https://gist.github.com/benelog/2fd67baa839586ce9fb2]
+- 데이터베이스를 파일로 사용할 수 있음.
+- 참고 : [https://gist.github.com/benelog/2fd67baa839586ce9fb2][https://gist.github.com/benelog/2fd67baa839586ce9fb2]
 
 여기를 [documentation][documentation] 누르세요.
 
