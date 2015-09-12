@@ -1,5 +1,5 @@
 # 1. .MD 파일 작성방법
-    [링크](http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram)
+- [링크](http://scriptogr.am/myevan/post/markdown-syntax-guide-for-scriptogram)
 
 # 2. nodejs사용할때 forerver -> pm2 사용해보기.
     nodejs로 서버를 돌릴때 보통 forever로 돌렸는데 이제 pm2로 바꿔보자
