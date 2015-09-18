@@ -6,7 +6,7 @@
     클러스터까지 알아서 해준다고한다.
     $ sudo npm install -g pm2
 
-# 3. lombok 사용해보자!! (완료)
+# 3. lombok 사용해보자!! (완료 2015-09-18)
     - @data 붙이면 get/set 메소드 자동생성 됨.
     - @AllArgsConstructor, @NoArgsConstructor 붙이면 생성자 만들어줌.
 에버노트에 정리해둠. [링크](https://www.evernote.com/shard/s543/nl/96218967/c609c4f0-b92a-4f9a-85c2-b2ba6cfe1a76?title=Lombok%20%EB%A1%AC%EB%B3%B5)
