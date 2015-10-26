@@ -23,6 +23,11 @@
 - 데이터베이스를 파일로 사용할 수 있음.
 - 참고 : [https://gist.github.com/benelog/2fd67baa839586ce9fb2][https://gist.github.com/benelog/2fd67baa839586ce9fb2]
 
+# 7. KODI (XBMC) 설치
+- 나스 스트리밍 프로그램
+- 사이트[KODI][http://kodi.tv/download/] 에서 다운가능.
+- 라즈베리에 설치해서 사용하고, 라즈베리에서 하던건 XPenology에 이전시키기.
+
 여기를 [documentation][documentation] 누르세요.
 
 
