@@ -20,7 +20,7 @@
 # 5. 젠킨스 사용하기
     - 자동화배포?를 사용해보자.
 
-# 6. H2DB 사용하기
+# 6. H2DB 사용하기 (완료 2016-02-28)
 - 데이터베이스를 파일로 사용할 수 있음.
 - 참고 : [https://gist.github.com/benelog/2fd67baa839586ce9fb2][https://gist.github.com/benelog/2fd67baa839586ce9fb2]
 
